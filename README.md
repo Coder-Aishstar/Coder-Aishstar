@@ -191,18 +191,7 @@ const hari: Developer = {
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HarryInData&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818CF8&icon_color=818CF8&text_color=e2e8f0&ring_color=6366f1"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=HarryInData&theme=tokyonight&hide_border=true&background=0f172a&ring=6366f1&fire=818CF8&currStreakLabel=818CF8&sideLabels=94a3b8&dates=94a3b8"/>
-
-<br/><br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryInData&layout=donut&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818CF8&text_color=94a3b8"/>
-
-</div>
 
 ---
 
